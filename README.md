@@ -1,5 +1,5 @@
 # ![Google Drive Clone](./public/logo.png) Google Drive Clone ![Google Drive Clone](./public/logo.png)
-
+Original Author of this project - https://github.com/EzeibekweEmma/google-drive-clone
 This project aims to replicate the core functionalities of [Google Drive](https://drive.google.com/drive/my-drive), providing users with cloud storage and efficient file management capabilities. It was built using modern web technologies and tools for a responsive and user-friendly experience.
 
 ### Demo
